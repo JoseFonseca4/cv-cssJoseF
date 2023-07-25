@@ -17,3 +17,15 @@ img{
 img{
     gap: 100px
 }
+
+#tabla-habilidades{
+    font-size: 25px;
+}
+
+#contenido {
+    width: 800px; margin: 0 auto;
+}
+
+.circular--square {
+    border-radius: 50%;
+  }
