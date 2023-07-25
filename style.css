@@ -29,3 +29,9 @@ img{
 .circular--square {
     border-radius: 50%;
   }
+
+  textarea.noscrollbars {
+    overflow: hidden;
+    width: 1000px;
+    height: 50px;
+  }
